@@ -1,1 +1,13 @@
-#run4 (labeled 2) version 1 onsets		onsets	duration	trial_type13.5	2.5	empathy_cue18	18	empathy_block51.5	2.5	dominance_cue56	18	dominance_block88.5	2.5	anxiety_cue93	18	anxiety_block126.6	2.5	empathy_cue131	18	empathy_block163.5	2.5	anxiety_cue168	18	anxiety_block201.5	2.5	dominance_cue206	18	dominance_block
+onsets	duration	trial_type
+13.5	2.5	empathy_cue
+18	18	empathy_block
+51.5	2.5	dominance_cue
+56	18	dominance_block
+88.5	2.5	anxiety_cue
+93	18	anxiety_block
+126.6	2.5	empathy_cue
+131	18	empathy_block
+163.5	2.5	anxiety_cue
+168	18	anxiety_block
+201.5	2.5	dominance_cue
+206	18	dominance_block
